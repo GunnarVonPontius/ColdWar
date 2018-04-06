@@ -1,5 +1,4 @@
 guiTypes = {
-
 	containerWindowType = {
 		name = "countrypoliticsview"
 		position = { x=-606 y=78}	
